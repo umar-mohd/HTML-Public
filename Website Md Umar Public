@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Resume</title>
+</head>
+<body>
+
+<img src="C:\Users\mduma\Downloads\Telegram Desktop\photo.jpg">
+
+<h1 align="center"><u>Md Umar</u></h1>
+
+<h2><u>Name</u> :- Md Umar.</h2>
+
+<h2><u>Date of birth</u> - 14th July 2003</h2>
+
+<h2><u>Address</u> :-Bhopal, Madhya Pradesh, India</h2>
+
+<h2><u>Carreer Objective</u> :- Software Engineer</h2>
+
+<h2><u>Hobbies</u> :- <dir>
+
+<li>Reading books</li>
+
+<li>playing games</li>
+
+<li>Reading Novels</li></h2> I
+
+<table border="1px" cellspacing="1px" cellpadding=" 6px">
+
+<tr><td>Name</td>
+
+<td>Name of the Institute</td>
+
+<td>Name of the course</td>
+
+<td>Name of the branch</td>
+
+<td>CGPA </td>
+
+</tr>
+
+<tr>
+
+<td>Md Umar</td>
+
+<td>Vellore Institute of technology, Bhopal</td>
+
+<td>B.Tech</td>
+
+<td>Computer Science</td>
+
+<td><u> - </u></td>
+
+</tr>
+
+</table>
+
+</dir>
+</body>
+</html>
