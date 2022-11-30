@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Resume</title>
+</head>
+<body>
+
+ 
+<h1 align="center"><u>Student counsellor form</u></h1>
+
+<h2><u>Carreer Objective</u> :- Software Engineer</h2>
+
+<form>
+  <label for="fname">First name:</label><br>
+  <input type="text" id="fname" name="fname"><br>
+
+  <label for="lname">Last name:</label><br>
+  <input type="text" id="lname" name="lname"><br>
+
+  <label for="lname">College name:</label><br>
+  <input type="text" id="lname" name="lname"><br>
+
+  <label for="lname">College Id:</label><br>
+  <input type="text" id="lname" name="lname"><br>
+
+  <label for="regno">Registratoin Number:</label><br>
+  <input type="text" id="regno" name="regno"><br><br>
+
+  <label for="lname">Reason for Counselling:</label><br><br>
+ 
+<form>
+  <input type="checkbox" id="vehicle1" name="vehicle1" value="Bike">
+  <label for="vehicle1"> Career counselling</label><br>
+  <input type="checkbox" id="Bullying or Ragging in campus" name="vehicle2" value="Car">
+  <label for="vehicle2"> Bullying or Ragging in campus</label><br>
+  <input type="checkbox" id="Other reason" name="vehicle3" value="Boat">
+  <label for="vehicle3"> Need assistance with further studies</label>
+</form>
+<br>
+
+  <label for="regno">If another reason, please specify:</label><br>
+  <input type="text" id="regno" name="regno"><br>
+
+<br>
+  
+  <input type="submit" value="Submit">
+
+</form>
+
+</dir>
+</body>
+</html>
